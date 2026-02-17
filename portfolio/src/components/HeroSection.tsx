@@ -168,7 +168,7 @@ export function HeroSection() {
               <Linkedin className="w-5 h-5 text-[#a1a1aa] group-hover:text-[#3b82f6]" />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:palyashika641@gmail.com"
               className="w-12 h-12 glass rounded-full flex items-center justify-center 
                        hover:bg-[#1f1f28] hover:scale-110 transition-all duration-300
                        group"

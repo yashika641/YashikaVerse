@@ -71,18 +71,16 @@ export function ResumeSection() {
               <h4 className="text-[#e4e4e7] mb-3">Education</h4>
               <ul className="space-y-2 text-sm text-[#a1a1aa]">
                 <li>• M.S. Data Science</li>
-                <li>• B.S. Computer Science</li>
+                <li>• B.Sc Zoology [hons]</li>
                 <li>• ML Certifications</li>
-                <li>• Publications & Research</li>
               </ul>
             </div>
             <div className="glass rounded-xl p-6">
               <h4 className="text-[#e4e4e7] mb-3">Achievements</h4>
               <ul className="space-y-2 text-sm text-[#a1a1aa]">
-                <li>• Kaggle Competition Winner</li>
-                <li>• Research Publications</li>
+                <li>• Participates in hackathons</li>
+                <li>• Research in AI automation</li>
                 <li>• Open Source Contributor</li>
-                <li>• Conference Speaker</li>
               </ul>
             </div>
           </div>
